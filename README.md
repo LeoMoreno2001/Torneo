@@ -29,7 +29,7 @@ Se utilizo Trello para el desarrollo de la pagina web. https://trello.com/b/WnR0
 
 # Capturas
 
-![](https://drive.google.com/file/d/1cxkQx84zFxN4Ej_KglOKgIzBLLCWr7vp/view?usp=sharing)
+![](https://github.com/LeoMoreno2001/Torneo/blob/master/Hola.png)
 
 ![](https://ibb.co/f7TK06)
 
