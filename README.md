@@ -1,7 +1,7 @@
 
 # Superliga
 
-![](https://www.google.com.ar/imgres?imgurl=http%3A%2F%2Fcdn.foxsportsla.com%2Fsites%2Ffoxsports-la%2Ffiles%2Fimg%2Fcompetition%2Fshields-original%2Flogo_superliga.png%3Fver%3D76ddaf8b-6b74-4d41-8577-29f99cf71f3d&imgrefurl=https%3A%2F%2Fwww.foxsports.com.ar%2Fcompetition%2Fprimera-a&docid=btF7qBgP-5336M&tbnid=d0-Jd3c_8EB4RM%3A&vet=10ahUKEwjchMXu2-HXAhXDFJAKHXdqA0QQMwg3KAMwAw..i&w=500&h=500&client=ubuntu&bih=622&biw=1366&q=superliga&ved=0ahUKEwjchMXu2-HXAhXDFJAKHXdqA0QQMwg3KAMwAw&iact=mrc&uact=8)
+![](http://agenciadelacosta.com.ar/wp-content/uploads/2017/08/superliga.jpg)
 
 _La superliga consiste en una pagina de internet que te ayuda a ver el mundo del deporte desde otro punto de vista. Dentro de esta pagina web podras ver todo el contenido de los partido con detalle, de cada fecha, novedades y mucho mas._ 
 
