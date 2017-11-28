@@ -29,11 +29,11 @@ Se utilizo Trello para el desarrollo de la pagina web. https://trello.com/b/WnR0
 
 # Capturas
 
+![](gs://series19-4b694.appspot.com/Hola.png)
+
 ![]()
 
-![](https://ibb.co/f7TK06)
-
-![](https://ibb.co/f7TK06)
+![]()
 
 ![]()
 ### **Para cualquier informacion contactarse con:**
