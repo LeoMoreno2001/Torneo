@@ -5,19 +5,14 @@
 
 _La superliga consiste en una pagina de internet que te ayuda a ver el mundo del deporte desde otro punto de vista. Dentro de esta pagina web podras ver todo el contenido de los partido con detalle, de cada fecha, novedades y mucho mas._ 
 
-    Abri SOUTHERN.
-    Busca el tipo y modelo que mas te guste.
-    Compralo con los datos minimos y la maxima confianza.
-    En algunos dias, llegara a tu casa!
-
-Esta pagina web se adapta a cualquier dispositivo, no tengas miedo de comprar con el telefono, con la tablet o con el tele :) Hay una serie de animaciones para que el recorrido por la web, sea mas agradable.
+  -  Utiliza la superliga para informarte y estar a cada minuto informado sobre tu club favorito          
+  - Superliga funciona en tu celular, computadora y cualquier dispositivo movil(Android y IOS).
 
 # Desarrollador
-Moreno Leonardo
-5to Año C
-Proyecto conjunto: Programacion y Sistema de informacion.
-
-Instituto Tecnico Salesiano Villada
+#### Moreno Leonardo
+#### 5to Año C
+#### Proyecto conjunto: Programacion y Sistema de informacion.
+#### Colegio: Instituto Tecnico Salesiano Villada
 
 # Dependencias
 
@@ -41,8 +36,13 @@ Se utilizo Trello para el desarrollo de la pagina web. https://trello.com/b/WnR0
 
 # Capturas
 
+![]()
 
+![]()
 
-Para cualquier informacion contactarse con 
-Moreno Leonardo
-leoladocta10@gmail.com
+![]()
+
+![]()
+**Para cualquier informacion contactarse con**
+**Moreno Leonardo**
+**leoladocta10@gmail.com**
