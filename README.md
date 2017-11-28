@@ -24,13 +24,6 @@ Para poder realizar esta pagina se ha utilzado una serie de aplicaciones:
 | jQuery.easing                  |Plugin de jquery para las animaciones     | 
 | Football-data org API          |Tabla de Posiciones, goleador, fixture       | 
 | Materialize                    | Pagina de diseño     |  
- 	            
- 	            
- 	                  
- 	                
- 	         
-    
-               
 
 Se utilizo Trello para el desarrollo de la pagina web. https://trello.com/b/WnR0kxIs/superliga17-18
 
@@ -43,6 +36,6 @@ Se utilizo Trello para el desarrollo de la pagina web. https://trello.com/b/WnR0
 ![]()
 
 ![]()
-**Para cualquier informacion contactarse con**
-**Moreno Leonardo**
-**leoladocta10@gmail.com**
+### **Para cualquier informacion contactarse con:**
+#### **Moreno Leonardo**
+#### **Email: leoladocta10@gmail.com**
