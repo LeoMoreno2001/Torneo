@@ -29,7 +29,7 @@ Se utilizo Trello para el desarrollo de la pagina web. https://trello.com/b/WnR0
 
 # Capturas
 
-![](gs://series19-4b694.appspot.com/Hola.png)
+![](https://firebasestorage.googleapis.com/v0/b/series19-4b694.appspot.com/o/Hola.png?alt=media&token=46788136-84aa-408f-9e12-d05a048f0a1f)
 
 ![]()
 
